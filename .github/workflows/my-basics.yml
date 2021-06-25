@@ -1,4 +1,7 @@
-# This is a basic workflow to help you get started with Actions
+#------------------------------------------
+# Version : 1.0
+# Author  : Mikhail Vinogradov
+#------------------------------------------
 
 name: My-GitHubActions-Basics
 
