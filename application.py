@@ -1,5 +1,5 @@
 # ------------------------------------------------
-# Program by Denis Astahov
+# Program by Mikhail Vinogradov
 #
 #
 # Version      Date           Info
